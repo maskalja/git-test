@@ -1,0 +1,32 @@
+
+/*Komentarji v CSS se pišejo takole*/
+img {
+    width: 200px;
+    border: 3px black dotted;
+}
+
+img:hover {
+    border: 3px red solid;
+    border-radius: 20px;
+}
+
+h1 {
+    color: pink
+}
+
+.red {
+    color: red;
+}
+
+.monospace {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+#blue {
+    color: blue;
+}
+
+#red2 {
+    color: red;
+}
